@@ -1,0 +1,12 @@
+BLUE		= Player //Use UP,DOWN,LEFT,RIGHT or A,S,W,D for move
+			 //Use Spacebars for jump
+			//Use Button A or Button 1 for JoyStick
+WHITE		= Wall
+RED		= Dead Zone
+BROWN 		= UnStable Area
+GRAY		= Box	 //Press 'Z' key with direction for push or pull
+			 //Use Button B or Button 2 for JoyStick
+LIGHT_GRAY	= Switch //Use Box for enable Switch
+YELLOW		= PassAble Area //Press DOWN key with Spacebars for Through this area
+			 //or Use Button B or Button 2 for JoyStick
+BLACK_LINE	= Save Point
